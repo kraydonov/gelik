@@ -1,0 +1,2 @@
+# gelik
+zadanie po miapo
